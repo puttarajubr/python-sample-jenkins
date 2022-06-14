@@ -1,3 +1,5 @@
 # test jenkins file
 
+echo "Git config - ssh - using Jenkins file"
 
+git log
