@@ -2,4 +2,6 @@
 
 echo "Git config - ssh - using Jenkins file"
 
+echo "WEBHOOK - GIT PUSH"
+
 git log
